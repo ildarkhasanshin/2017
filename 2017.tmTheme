@@ -72,7 +72,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#880000</string>
+				<string>#000088</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +83,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AA0000</string>
+				<string>#0000CC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -317,6 +317,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#0000CC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>support.type</string>
+			<key>scope</key>
+			<string>support.type</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#006600</string>
 			</dict>
 		</dict>
 	</array>
